@@ -1,6 +1,6 @@
 # PhysicsRating-Client 
 
-[![English version](https://img.shields.io/badge/English%20version-blue)](README.md)
+[![Русская версия](https://img.shields.io/badge/English%20version-blue)](README_RU.md)
 
 > The application is designed to work with the academic rating commissioned by the teacher
 
